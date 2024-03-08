@@ -1,0 +1,104 @@
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.exe.config
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.exe
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.pdb
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\RestSharp.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Buffers.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.CodeDom.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.IO.Ports.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Memory.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.AssemblyReference.cache
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.exe.config
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Form1.resources
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Properties.Resources.resources
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.GenerateResource.cache
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.CoreCompileInputs.cache
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.Fody.CopyLocal.cache
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.CopyComplete
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.exe
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.pdb
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.GuestOrder.resources
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.UserOrder.resources
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.ItemForm.resources
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.UsersForm.resources
+C:\Users\Usman\Source\Repos\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.ViewOrders.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.exe.config
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.exe
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.pdb
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Bunifu.UI.WinForms.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Microsoft.Win32.Registry.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\Newtonsoft.Json.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\RestSharp.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Buffers.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.CodeDom.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Data.Odbc.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Data.OleDb.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Data.SqlClient.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Diagnostics.EventLog.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Drawing.Common.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.IO.Packaging.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.IO.Ports.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Memory.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Numerics.Vectors.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Security.AccessControl.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Permissions.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Security.Principal.Windows.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.ServiceModel.Syndication.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\bin\Debug\System.Threading.AccessControl.xml
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.AssemblyReference.cache
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.SuggestedBindingRedirects.cache
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.exe.config
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Form1.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.GuestOrder.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.ItemForm.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Properties.Resources.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.UserOrder.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.UsersForm.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.ViewOrders.resources
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.GenerateResource.cache
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.CoreCompileInputs.cache
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.Fody.CopyLocal.cache
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.csproj.CopyComplete
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.exe
+E:\DBMS Project\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.pdb
